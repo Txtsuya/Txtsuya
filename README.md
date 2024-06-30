@@ -1,6 +1,6 @@
 ## aryan ツ
 
-#### Social medias
+#### Social Medias 🎈
 - Twitter [@BinksAryan](https://twitter.com/BinksAryan)
 - Instagram [@kamijoaryan](https://www.instagram.com/kamijoaryan/)
 
