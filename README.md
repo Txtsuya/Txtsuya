@@ -3,7 +3,7 @@
 #### Social Medias 🎈
 - Twitter [@BinksAryan](https://twitter.com/BinksAryan)
 - Instagram [@kamijoaryan](https://www.instagram.com/kamijoaryan/)
-- Check this out [Website](https://txtsuya.github.io)
+- Check this out [Website](https://hueco-mundo.vercel.app/)
 
 
 
