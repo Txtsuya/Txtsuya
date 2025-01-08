@@ -1,9 +1,7 @@
-## aryan ツ
+# aryan ツ
 
-#### Social Medias 🎈
-- Twitter [@BinksAryan](https://twitter.com/BinksAryan)
-- Instagram [@kamijoaryan](https://www.instagram.com/kamijoaryan/)
-- Check this out [Website](https://hueco-mundo.vercel.app/)
+### Social Medias 🎈
+<a href="https://www.linkedin.com/in/mickadaoud/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
 
 
 
