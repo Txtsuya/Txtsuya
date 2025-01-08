@@ -2,7 +2,7 @@
 
 ### 🎈 Social Medias
 
-<a href="https://www.linkedin.com/in/aryanbhotey/"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+<a href="https://www.linkedin.com/in/aryan-bhotey/"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
 <a href="https://discordapp.com/users/774727443659227186"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">
 <a href="mailto:aryan.bhotey@epitech.eu"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg">
 
