@@ -16,7 +16,7 @@ typedef struct config_s {
 int main(void)
 {
     config_t aryan = { 
-        "Ubuntu",
+        "Ubuntu, Arch",
         "C, Python, HTML, CSS, JS",
         "vim, vscode",
         "Seek knowledge and progression",
