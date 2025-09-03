@@ -16,11 +16,11 @@ typedef struct config_s {
 int main(void)
 {
     config_t aryan = { 
-        "Ubuntu, Arch",
+        "Ubuntu, Arch, MacOS",
         "C, Python, HTML, CSS, JS",
         "vim, vscode",
-        "Seek knowledge and progression",
-        "Epitech" 
+        "seeking knowledge and progression",
+        "Epitech 2nd year student" 
     };
 
     return 0;
