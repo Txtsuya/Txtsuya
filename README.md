@@ -1,9 +1,4 @@
 # aryan ツ
-
----
-
-## 🌟 Setup
-
 ``` C
 typedef struct config_s {
     char *os;
@@ -26,8 +21,3 @@ int main(void)
     return 0;
 }
 ```
----
-
-## 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Txtsuya&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff)
