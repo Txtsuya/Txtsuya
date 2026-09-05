@@ -15,7 +15,7 @@ int main(void)
         "C, C++, Python, TS, PHP, MySQL, Docker",
         "vim, vscode",
         "seeking knowledge and progression",
-        "Epitech 2nd year student" 
+        "Epitech 3rd year student" 
     };
 
     return 0;
